@@ -1,4 +1,4 @@
-# S&P 500 Index vs S&P 500 Sectors Portfolio
+# :chart_with_upwards_trend: S&P 500 Index vs S&P 500 Sectors Portfolio
 The goal of the project is to test how well a portfolio consisting of different sectors of the S&P 500 index performs relative to the benchmark S&P 500 index.
 
 The original data was found on the official [S&P 500 Global](https://www.spglobal.com/spdji/en/index-family/equity/us-equity/sp-sectors) website and contains 11 datasets in .xls format for the last 10+ years.
